@@ -1,0 +1,15 @@
+.header-col
+{
+    color: rgb(182, 33, 212);
+}
+.text-font{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.listvis, ul{
+    list-style-position: inside;
+}
+.text-fontm{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
